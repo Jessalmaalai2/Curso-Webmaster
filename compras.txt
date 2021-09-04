@@ -2,3 +2,4 @@
 1 pollo entero
 1 kilo de tomate
 1 kilo de zanahoria
+2 kilos de mandarina agregados desde el github
